@@ -11,11 +11,11 @@ The targets are on the opposite side horizontally, so the best path for both is 
   <tr>
     <td align="center">
       <b>Before Training</b><br>
-      <img src="./figures/CL_diag_ref.gif" alt="Before Training" width="450"/>
+      <img src="./figures/CL_diag_ref.gif" alt="Before Training" width="350"/>
     </td>
     <td align="center">
       <b>After Training</b><br>
-      <img src="./figures/CL_diag_trained.gif" alt="After Training" width="450"/>
+      <img src="./figures/CL_diag_trained.gif" alt="After Training" width="350"/>
     </td>
   </tr>
 </table>
@@ -28,11 +28,11 @@ The targets are on the same side as the initial positions, so the best path for 
   <tr>
     <td align="center">
       <b>Before Training</b><br>
-      <img src="./figures/CL_direct_ref.gif" alt="Before Training" width="450"/>
+      <img src="./figures/CL_direct_ref.gif" alt="Before Training" width="350"/>
     </td>
     <td align="center">
       <b>After Training</b><br>
-      <img src="./figures/CL_direct_trained.gif" alt="After Training" width="450"/>
+      <img src="./figures/CL_direct_trained.gif" alt="After Training" width="350"/>
     </td>
   </tr>
 </table>
