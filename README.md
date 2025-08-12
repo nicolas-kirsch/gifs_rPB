@@ -20,14 +20,16 @@ The following gifs show trajectories of the vehicles before and after the traini
   </tr>
 </table>
 
-<p align="center">
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="./figures/CL_direct_ref-1.gif" alt="robot_trajectories_before_training" width="400"/>
-    <figcaption>Before Training</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="./figures/CL_direct_trained.gif" alt="robot_trajectories_after_training_a" width="400"/>
-    <figcaption>After Training</figcaption>
-  </figure>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <b>Before Training</b><br>
+      <img src="./figures/CL_direct_ref-1.gif" alt="Before Training" width="450"/>
+    </td>
+    <td align="center">
+      <b>After Training</b><br>
+      <img src="./figures/CL_direct_trained.gif" alt="After Training" width="450"/>
+    </td>
+  </tr>
+</table>
 
