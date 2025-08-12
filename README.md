@@ -28,7 +28,7 @@ The targets are on the same side as the initial positions, so the best path for 
   <tr>
     <td align="center">
       <b>Before Training</b><br>
-      <img src="./figures/CL_direct_ref-1.gif" alt="Before Training" width="450"/>
+      <img src="./figures/CL_direct_ref.gif" alt="Before Training" width="450"/>
     </td>
     <td align="center">
       <b>After Training</b><br>
