@@ -11,11 +11,11 @@ The following gifs show trajectories of the vehicles before and after the traini
   <tr>
     <td align="center">
       <b>Before Training</b><br>
-      <img src="./figures/CL_diag_ref.gif" alt="Before Training" width="350"/>
+      <img src="./figures/CL_diag_ref.gif" alt="Before Training" width="450"/>
     </td>
     <td align="center">
       <b>After Training</b><br>
-      <img src="./figures/CL_diag_trained.gif" alt="After Training" width="350"/>
+      <img src="./figures/CL_diag_trained.gif" alt="After Training" width="450"/>
     </td>
   </tr>
 </table>
