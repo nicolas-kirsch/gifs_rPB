@@ -1,11 +1,11 @@
-# Mountain range results 
-This repository holds the gif simulations of the mountain range obstacle avoidance simulation from the CDC paper
+# Coordination in mountain range problem
+
+The following gifs show trajectories of the vehicles before and after the training with the rPB framework, where the agents need to coordinate in order to pass through an array of narrow passages while trying to minimize the travelled distance, starting from a random initial position marked with &#9675;. The robots have been trained over several targets at once, and below two examples are displayed. 
 
 
+## Diagonal objectives 
 
-### Coordination in mountains problem 
-
-The following gifs show trajectories of the vehicles before and after the training of a distributed neurSLS controller, where the agents that need to coordinate in order to pass through a narrow passage while trying to keep a rectangular shape, starting from a random initial position marked with &#9675;.
+The targets are on the opposite side horizontally, so the best path for both is to pass through the central passage.  
 
 <table>
   <tr>
@@ -19,6 +19,10 @@ The following gifs show trajectories of the vehicles before and after the traini
     </td>
   </tr>
 </table>
+
+## Direct objectives 
+
+The targets are on the same side as the initial positions, so the best path for both is to pass through the closest passage to their initial position.  
 
 <table>
   <tr>
